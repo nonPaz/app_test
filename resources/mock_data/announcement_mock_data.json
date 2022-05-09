@@ -1,0 +1,27 @@
+{
+  "result_code" : 0,
+  "status_message" : "success",
+  "data" : {
+    "list_head_announcement" : [
+      "The Forestias Wins 3 Design Awards",
+      "MQDC Helps Communities"
+    ],
+    "list_announcement" : [
+      {
+        "image_url" : "https://www.109print.com/images/editor/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2.jpg",
+        "title" : "Participating outlets of 101 FUN SUMMER TIME Campaign",
+        "date_time" : "22 Apr 2022, 17:00"
+      },
+      {
+        "image_url" : "https://www.seekpng.com/png/detail/3-38765_disney-png-free-download-all-disney-characters-transparent.png",
+        "title" : "DISNEY GRAND SALE",
+        "date_time" : "22 Apr 2022, 17:00"
+      },
+      {
+        "image_url" : "https://s.isanook.com/mv/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMTcvODgzMDUvdG95c3Rvcnk0LTEwMS5qcGc=.jpg",
+        "title" : "NICHIWORLD TOY ON TOUR",
+        "date_time" : "22 Apr 2022, 17:00"
+      }
+    ]
+  }
+}
