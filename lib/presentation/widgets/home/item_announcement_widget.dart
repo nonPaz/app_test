@@ -28,10 +28,8 @@ class ItemAnnouncementWidget extends StatelessWidget {
     );
   }
 
-  Widget _imageAnnouncementView()=> Container(
-    decoration: BoxDecoration(
-      borderRadius: BorderRadius.circular(25)
-    ),
+  Widget _imageAnnouncementView()=> ClipRRect(
+    borderRadius: BorderRadius.circular(15),
     child: CachedNetworkImage(
       imageUrl: itemAnnouncementEntity.imageURL,
       fit: BoxFit.cover,
